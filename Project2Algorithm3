@@ -1,3 +1,5 @@
+# Method: Fast Gradient Sign Method
+# Contains support vector machine classifer
 # Load required libraries
 library(e1071)
 library(adversarials)
