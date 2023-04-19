@@ -1,3 +1,5 @@
+# Method: Fast Gradient Sign Method
+# Load required packages
 library(keras)
 library(magrittr)
 
