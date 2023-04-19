@@ -1,3 +1,5 @@
+# Method: Stack Generalization using majority voting
+# Load required packages
 library(caret)
 library(mlr)
 library(fastAdaboost)
